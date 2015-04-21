@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add more social icons to Mailpoet Plugin, افزودن شبکه های اجتماعی بیشتر ببه افزونه Mailpoet
+Add more social icons to Mailpoet Plugin, افزودن شبکه های اجتماعی بیشتر به افزونه Mailpoet
 
 == Description ==
 
