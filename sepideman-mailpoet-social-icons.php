@@ -3,7 +3,7 @@
  * Plugin Name: Mailpoet Sepideman Social Icons
  * Plugin URI: http://plugins.sepideman.com/sepideman-mailpoet-social-icons
  * Description: Add more social icons to Mailpoet Plugin, افزودن شبکه های اجتماعی بیشتر به افزونه Mailpoet
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: زرتشت سپیدمان
  * Author URI: http://www.ZartoshtSepideman.com
  * License: GPLv2
@@ -24,7 +24,7 @@ function sepideman_mailpoet_social_icons_folder() {
 	$bookmarks_dir = $upload_dir . '001-sepideman';
     if (! is_dir($bookmarks_dir)) {mkdir( $bookmarks_dir, 0755 );}
 	
-	$socials = array('blogger.png' ,'blurb.png' ,'bookmarks.png' ,'cloudup.png' ,'delicious.png' ,'deviantart.png' ,'digg.png' ,'dropbox.png' ,'facebook.png' ,'flickr.png' ,'github.png' ,'google-plus.png' ,'hi5.png' ,'instagram.png' ,'linkedin.png' ,'livejournal.png' ,'mail.png' ,'myspace.png' ,'odnoklassniki.png' ,'orkut.png' ,'pengyou.png' ,'picasa.png' ,'pinterest.png' ,'qzone.png' ,'reddit.png' ,'renren.png' ,'rss.png' ,'scribd.png' ,'sina.png' ,'slideshare.png' ,'soundcloud.png' ,'stumbleupon.png' ,'technorati.png' ,'tencent.png' ,'tumblr.png' ,'twitter.png' ,'ubuntuone.png' ,'vimeo.png' ,'vine.png' ,'vkontakte.png' ,'windowslive.png' ,'xing.png' ,'yfrog.png' ,'youtube.png');
+	$socials = array('blogger.png' ,'blurb.png' ,'bookmarks.png' ,'cloudup.png' ,'delicious.png' ,'deviantart.png' ,'digg.png' ,'dropbox.png' ,'facebook.png' ,'flickr.png' ,'github.png' ,'google.png' ,'hi5.png' ,'instagram.png' ,'linkedin.png' ,'livejournal.png' ,'mail.png' ,'myspace.png' ,'odnoklassniki.png' ,'orkut.png' ,'pengyou.png' ,'picasa.png' ,'pinterest.png' ,'qzone.png' ,'reddit.png' ,'renren.png' ,'rss.png' ,'scribd.png' ,'sina.png' ,'slideshare.png' ,'soundcloud.png' ,'stumbleupon.png' ,'technorati.png' ,'tencent.png' ,'tumblr.png' ,'twitter.png' ,'ubuntuone.png' ,'vimeo.png' ,'vine.png' ,'vkontakte.png' ,'windowslive.png' ,'xing.png' ,'yfrog.png' ,'youtube.png');
 	
 	foreach ( $socials as $social ){
 		if ( ! is_dir( $bookmarks_dir . '/' . $social ) ) {
