@@ -3,7 +3,7 @@
  * Plugin Name: Mailpoet Sepideman Social Icons
  * Plugin URI: http://plugins.sepideman.com/sepideman-mailpoet-social-icons
  * Description: Add more social icons to Mailpoet Plugin, افزودن شبکه های اجتماعی بیشتر به افزونه Mailpoet
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: زرتشت سپیدمان
  * Author URI: http://www.ZartoshtSepideman.com
  * License: GPLv2
