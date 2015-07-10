@@ -62,6 +62,10 @@ blogger, blurb, bookmarks, cloudup, delicious, deviantart, digg, dropbox, facebo
 
 == Changelog ==
 
+= 1.0.3 =
+* Resolve Tumbler Icon - Deactivate and activate again
+* حل مشکل نمایش داده نشدن تامبلر
+
 = 1.0.2 =
 * Resolve Google Plus Icon - Deactivate and activate again
 * حل مشکل نمایش داده نشدن گوگل‌پلاس
@@ -75,6 +79,10 @@ blogger, blurb, bookmarks, cloudup, delicious, deviantart, digg, dropbox, facebo
 * انتشار افزونه
 
 == Upgrade Notice ==
+
+= 1.0.3 =
+* Resolve Tumbler Icon - Deactivate and activate again
+* حل مشکل نمایش داده نشدن تامبلر
 
 = 1.0.2 =
 * Resolve Google Plus Icon - Deactivate and activate again
